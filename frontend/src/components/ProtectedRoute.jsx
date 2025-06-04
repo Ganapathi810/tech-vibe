@@ -1,7 +1,7 @@
 import { Navigate, Outlet } from "react-router-dom";
 import { useAuth } from "../hooks/useAuth";
 import { useAuthStateChanged } from "../hooks/useAuthStateChanged";
-import { TopBar } from "./Topbar";
+import { TopBar } from "./TopBar";
 
 export const ProtectedRoute = () => {
     const { user } = useAuth();
