@@ -14,7 +14,8 @@
 - 🎥 **Short Tech Videos** — Scrollable vertical feed of tech-only content.  
 - 🔐 **User Authentication** — Sign up, log in, and manage your profile securely.  
 - 👤 **User Profiles** — View your own and others' videos and details.  
-- 💬 **Comment System** — Interact with creators and spark discussions.  
+- 💬 **Comment System** — Interact with creators and spark discussions.
+- 📤 **Share Functionality** — Easily share tech videos with others via link.  
 - ➕ **Follow Creators** — Stay updated by following your favorite tech influencers.  
 - 📱 **Responsive Design** — Fully functional across desktop and mobile devices.  
 - ⚡ **Smooth Scrolling UI** — Intuitive vertical scroll like YouTube Shorts  
