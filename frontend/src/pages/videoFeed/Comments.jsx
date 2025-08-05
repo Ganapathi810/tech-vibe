@@ -179,7 +179,7 @@ export const Comments = ({ videoId,closeCommentBoxHandle,isFullScreen}) => {
 
 
     return (
-        <div className={`${isFullScreen ? 'h-[755px]' : 'h-[560px] xl:h-[650px]' } relative flex flex-col justify-between w-full sm:w-[511px] border-2 border-violet-500 rounded-md bg-gray-950`}>
+        <div className={`${isFullScreen ? 'h-[755px]' : 'h-[560px] xl:h-[600px]' } relative flex flex-col justify-between w-full sm:w-[511px] border-2 border-violet-500 rounded-md bg-gray-950`}>
             <div className="flex justify-between border-b border-violet-500 p-2">
                 <div className="flex gap-x-3 items-center">
                     <span className="text-white text-xl font-semibold">Comments</span>
