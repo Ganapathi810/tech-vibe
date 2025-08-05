@@ -233,7 +233,7 @@ export const VideoCard = forwardRef(({video,setVideos,commentClickHandle,videoDe
 
     return (
         <div 
-            className={`${isFullScreen ? 'h-[755px] w-[590px]' : 'h-[640px] w-[540px]' } relative p-5 sm:p-0 sm:flex sm:gap-x-1 mt-16`}
+            className={`${isFullScreen ? 'h-[755px] w-[590px]' : 'h-[600px] w-[540px]' } relative p-5 sm:p-0 sm:flex sm:gap-x-1 mt-16`}
         >
             <div className='relative h-full w-full'>
                 <img 
