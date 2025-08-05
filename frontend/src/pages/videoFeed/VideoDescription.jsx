@@ -16,7 +16,7 @@ export const VideoDescription = ({ video,closeDescriptionBoxHandle,isFullScreen,
                 else
                     enableScrolling.current = false
             }}
-            className={`${isFullScreen ? 'h-[755px]' : 'h-[550px] xl:h-[650px]'} w-full max-w-lg sm:w-[511px] xl:fixed xl:right-36 xl:top-16 xl:mt-1 flex flex-col border-2 border-violet-500 bg-gray-950 rounded-md`}
+            className={`${isFullScreen ? 'h-[755px]' : 'h-[550px] xl:h-[600px]'} w-full max-w-lg sm:w-[511px] xl:fixed xl:right-36 xl:top-16 xl:mt-1 flex flex-col border-2 border-violet-500 bg-gray-950 rounded-md`}
         >
             <div className="flex justify-between items-center border-b border-violet-500 p-2">
                 <span className="text-white text-xl font-semibold">Description</span>
